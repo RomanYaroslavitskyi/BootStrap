@@ -1,0 +1,7 @@
+@media screen and (max-width: 576px) {
+  .banner-image {
+    height: 27rem;
+    background-size: cover;
+    background-position: center;
+  }
+}
